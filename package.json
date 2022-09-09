@@ -1,0 +1,23 @@
+{
+  "name": "mvc_m05c01",
+  "version": "1.0.0",
+  "description": "Práctica de mvc",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BelGonzalez21/MVC_M05C01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BelGonzalez21/MVC_M05C01/issues"
+  },
+  "homepage": "https://github.com/BelGonzalez21/MVC_M05C01#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
